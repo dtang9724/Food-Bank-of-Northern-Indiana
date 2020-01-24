@@ -8,6 +8,6 @@ This .pdf file is the slides that we presented to the executive director of the 
 
 The .png files are a Tableau screenshot and results from running a decision tree. 
 
-#### It was a great pleasure to work with my teammates, Doris, Charlie, Robin, and Ye. Their hard work and communication skills greatly facilitated our collaboration and were the foundation of the success of this project. Hopefully, our efforts could help more people in our local community! 
+#### It was a great pleasure to work with my teammates, Doris, Charlie, Robin, and Ye. Their hard work and communication skills greatly facilitated effective collaboration and were the foundation of the success of this project. Hopefully, our efforts could help more people in our local community! 
 
 
